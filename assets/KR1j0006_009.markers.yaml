@@ -1,0 +1,584 @@
+canonical_identifier: bkk:krp/KR1j0006/bkk/v1/markers/9
+seq: 9
+markers:
+  front:
+  - {type: variant, offset: 0, length: 2, content: 第九, SBCK: ''}
+  - {type: variant, offset: 0, length: 2, content: 第九, krp: ''}
+  body:
+  - {type: xml-element, offset: 2, content: '', id: KR1j0006_CHANT_009-bkkxmlele1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR1j0006_CHANT_009-1a.1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR1j0006_CHANT_009-1a.2}
+  - {type: page-break, offset: 2, content: '', id: KR1j0006_SBCK_009-1a}
+  - {type: variant, offset: 6, length: 1, content: 絕, SBCK: 絶}
+  - {type: variant, offset: 6, length: 1, content: 絕, krp: 絶}
+  - {type: substitution, offset: 6, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: xml-element, offset: 16, content: '', id: KR1j0006_CHANT_009-bkkxmlele2}
+  - {type: xml-element, offset: 16, content: '', id: KR1j0006_CHANT_009-bkkxmlele3}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR1j0006_CHANT_009-1a.3}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR1j0006_CHANT_009-1a.4}
+  - {type: punctuation, offset: 17, content: ，, id: KR1j0006_CHANT_009-bkkpn1}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR1j0006_CHANT_009-1a.5}
+  - {type: variant, offset: 20, length: 0, content: '', SBCK: 取名於鈎}
+  - {type: variant, offset: 20, length: 0, content: '', krp: 取名於鈎}
+  - {type: punctuation, offset: 21, content: 。, id: KR1j0006_CHANT_009-bkkpn2}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR1j0006_CHANT_009-1a.6}
+  - {type: variant, offset: 21, length: 0, content: '', SBCK: 也}
+  - {type: variant, offset: 21, length: 0, content: '', krp: 也}
+  - {type: variant, offset: 32, length: 1, content: 釨, SBCK: ''}
+  - {type: variant, offset: 32, length: 1, content: 釨, krp: ''}
+  - {type: punctuation, offset: 33, content: ，, id: KR1j0006_CHANT_009-bkkpn3}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR1j0006_CHANT_009-1a.7}
+  - {type: punctuation, offset: 37, content: ，, id: KR1j0006_CHANT_009-bkkpn4}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR1j0006_CHANT_009-1a.8}
+  - {type: variant, offset: 37, length: 0, content: '', SBCK: 音寅}
+  - {type: variant, offset: 37, length: 0, content: '', krp: 音寅}
+  - {type: punctuation, offset: 44, content: 。, id: KR1j0006_CHANT_009-bkkpn5}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR1j0006_CHANT_009-1a.9}
+  - {type: punctuation, offset: 57, content: ，, id: KR1j0006_CHANT_009-bkkpn6}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR1j0006_CHANT_009-1a.10}
+  - {type: variant, offset: 57, length: 0, content: '', SBCK: 泥鏝}
+  - {type: variant, offset: 57, length: 0, content: '', krp: 泥鏝}
+  - {type: variant, offset: 62, length: 2, content: 鉤釨, SBCK: 鈎}
+  - {type: variant, offset: 62, length: 2, content: 鉤釨, krp: 鈎}
+  - {type: punctuation, offset: 66, content: 。, id: KR1j0006_CHANT_009-bkkpn7}
+  - {type: xml-element, offset: 66, content: '', id: KR1j0006_CHANT_009-bkkxmlele4}
+  - {type: xml-element, offset: 66, content: '', id: KR1j0006_CHANT_009-bkkxmlele5}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR1j0006_CHANT_009-2a.1}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR1j0006_CHANT_009-2a.2}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR1j0006_CHANT_009-2a.3}
+  - {type: variant, offset: 66, length: 0, content: '', SBCK: 即今雞鳴勾孑戟也}
+  - {type: variant, offset: 66, length: 0, content: '', krp: 即今雞鳴勾孑戟也}
+  - {type: punctuation, offset: 69, content: ，, id: KR1j0006_CHANT_009-bkkpn8}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR1j0006_CHANT_009-2a.4}
+  - {type: variant, offset: 69, length: 0, content: '', SBCK: 今㦸中有小孑刺者所謂雄㦸也}
+  - {type: variant, offset: 69, length: 0, content: '', krp: 今㦸中有小孑刺者所謂雄㦸也}
+  - {type: punctuation, offset: 77, content: 。, id: KR1j0006_CHANT_009-bkkpn9}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR1j0006_CHANT_009-2a.5}
+  - {type: variant, offset: 77, length: 0, content: '', SBCK: 音偃郢今江陵也余正反}
+  - {type: variant, offset: 77, length: 0, content: '', krp: 音偃郢今江陵也余正反}
+  - {type: variant, offset: 80, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 86, content: ，, id: KR1j0006_CHANT_009-bkkpn10}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR1j0006_CHANT_009-2a.6}
+  - {type: variant, offset: 86, length: 0, content: '', SBCK: 音袐}
+  - {type: variant, offset: 86, length: 0, content: '', krp: 音袐}
+  - {type: punctuation, offset: 90, content: 。, id: KR1j0006_CHANT_009-bkkpn11}
+  - {type: xml-element, offset: 90, content: '', id: KR1j0006_CHANT_009-bkkxmlele6}
+  - {type: xml-element, offset: 90, content: '', id: KR1j0006_CHANT_009-bkkxmlele7}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR1j0006_CHANT_009-2a.7}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR1j0006_CHANT_009-2a.8}
+  - {type: variant, offset: 90, length: 0, content: '', SBCK: 音殊}
+  - {type: page-break, offset: 90, content: '', id: KR1j0006_SBCK_009-1b}
+  - {type: variant, offset: 90, length: 0, content: '', krp: 音殊}
+  - {type: punctuation, offset: 91, content: ，, id: KR1j0006_CHANT_009-bkkpn12}
+  - {type: 'tls:seg', offset: 91, content: '', id: KR1j0006_CHANT_009-2a.9}
+  - {type: variant, offset: 91, length: 1, content: 吳, SBCK: 呉}
+  - {type: variant, offset: 91, length: 1, content: 吳, krp: 呉}
+  - {type: punctuation, offset: 104, content: ，, id: KR1j0006_CHANT_009-bkkpn13}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR1j0006_CHANT_009-2a.10}
+  - {type: variant, offset: 104, length: 0, content: '', SBCK: 甞蛇反五湖今呉興太湖也先儒處之多亦不了所未能詳者}
+  - {type: variant, offset: 104, length: 0, content: '', krp: 甞蛇反五湖今呉興太湖也先儒處之多亦不了所未能詳者}
+  - {type: punctuation, offset: 108, content: ，, id: KR1j0006_CHANT_009-bkkpn14}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR1j0006_CHANT_009-2a.11}
+  - {type: variant, offset: 108, length: 0, content: '', SBCK: 音蟬}
+  - {type: variant, offset: 108, length: 0, content: '', krp: 音蟬}
+  - {type: punctuation, offset: 112, content: 。, id: KR1j0006_CHANT_009-bkkpn15}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR1j0006_CHANT_009-2a.12}
+  - {type: variant, offset: 112, length: 0, content: '', SBCK: 漢書曰鏦殺呉王錯江反}
+  - {type: variant, offset: 112, length: 0, content: '', krp: 漢書曰鏦殺呉王錯江反}
+  - {type: punctuation, offset: 117, content: 。, id: KR1j0006_CHANT_009-bkkpn16}
+  - {type: xml-element, offset: 117, content: '', id: KR1j0006_CHANT_009-bkkxmlele8}
+  - {type: xml-element, offset: 117, content: '', id: KR1j0006_CHANT_009-bkkxmlele9}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR1j0006_CHANT_009-3a.1}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR1j0006_CHANT_009-3a.2}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR1j0006_CHANT_009-3a.3}
+  - {type: variant, offset: 117, length: 0, content: '', SBCK: 今字作􅚙巨巾反}
+  - {type: variant, offset: 117, length: 0, content: '', krp: 今字作􅚙巨巾反}
+  - {type: punctuation, offset: 118, content: ，, id: KR1j0006_CHANT_009-bkkpn17}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR1j0006_CHANT_009-3a.4}
+  - {type: variant, offset: 119, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 125, content: ，, id: KR1j0006_CHANT_009-bkkpn18}
+  - {type: 'tls:seg', offset: 125, content: '', id: KR1j0006_CHANT_009-3a.5}
+  - {type: punctuation, offset: 132, content: ，, id: KR1j0006_CHANT_009-bkkpn19}
+  - {type: 'tls:seg', offset: 132, content: '', id: KR1j0006_CHANT_009-3a.6}
+  - {type: variant, offset: 132, length: 1, content: 關, SBCK: 音侯􅀜}
+  - {type: variant, offset: 132, length: 0, content: '', krp: 音侯}
+  - {type: punctuation, offset: 136, content: 。, id: KR1j0006_CHANT_009-bkkpn20}
+  - {type: xml-element, offset: 136, content: '', id: KR1j0006_CHANT_009-bkkxmlele10}
+  - {type: xml-element, offset: 136, content: '', id: KR1j0006_CHANT_009-bkkxmlele11}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR1j0006_CHANT_009-3a.7}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR1j0006_CHANT_009-3a.8}
+  - {type: variant, offset: 136, length: 1, content: 鑽, SBCK: 箭者竹名因以爲號鑚}
+  - {type: variant, offset: 136, length: 1, content: 鑽, krp: 箭者竹名因以爲號鑚}
+  - {type: punctuation, offset: 140, content: 。, id: KR1j0006_CHANT_009-bkkpn21}
+  - {type: xml-element, offset: 140, content: '', id: KR1j0006_CHANT_009-bkkxmlele12}
+  - {type: xml-element, offset: 140, content: '', id: KR1j0006_CHANT_009-bkkxmlele13}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR1j0006_CHANT_009-4a.1}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR1j0006_CHANT_009-4a.2}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR1j0006_CHANT_009-4a.3}
+  - {type: variant, offset: 140, length: 0, content: '', SBCK: 音端}
+  - {type: variant, offset: 140, length: 0, content: '', krp: 音端}
+  - {type: punctuation, offset: 144, content: 。, id: KR1j0006_CHANT_009-bkkpn22}
+  - {type: xml-element, offset: 144, content: '', id: KR1j0006_CHANT_009-bkkxmlele14}
+  - {type: xml-element, offset: 144, content: '', id: KR1j0006_CHANT_009-bkkxmlele15}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR1j0006_CHANT_009-4a.4}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR1j0006_CHANT_009-4a.5}
+  - {type: variant, offset: 144, length: 1, content: 劍, SBCK: 矛㦸􅚙即杖也劒}
+  - {type: variant, offset: 144, length: 1, content: 劍, krp: 矛㦸􅚙即杖也劒}
+  - {type: punctuation, offset: 146, content: ，, id: KR1j0006_CHANT_009-bkkpn23}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR1j0006_CHANT_009-4a.6}
+  - {type: punctuation, offset: 157, content: ，, id: KR1j0006_CHANT_009-bkkpn24}
+  - {type: 'tls:seg', offset: 157, content: '', id: KR1j0006_CHANT_009-4a.7}
+  - {type: variant, offset: 158, length: 1, content: 關, SBCK: 􅀜}
+  - {type: page-break, offset: 161, content: '', id: KR1j0006_SBCK_009-2a}
+  - {type: variant, offset: 164, length: 1, content: 廊, SBCK: 廓}
+  - {type: variant, offset: 164, length: 1, content: 廊, krp: 廓}
+  - {type: punctuation, offset: 165, content: ，, id: KR1j0006_CHANT_009-bkkpn25}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR1j0006_CHANT_009-4a.8}
+  - {type: punctuation, offset: 169, content: ，, id: KR1j0006_CHANT_009-bkkpn26}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR1j0006_CHANT_009-4a.9}
+  - {type: variant, offset: 170, length: 1, content: 關, SBCK: 􅀜}
+  - {type: variant, offset: 175, length: 1, content: 𩏂, SBCK: 􅔖方婢切}
+  - {type: variant, offset: 175, length: 1, content: 𩏂, krp: 􅔖方婢切}
+  - {type: punctuation, offset: 176, content: 。, id: KR1j0006_CHANT_009-bkkpn27}
+  - {type: xml-element, offset: 176, content: '', id: KR1j0006_CHANT_009-bkkxmlele16}
+  - {type: xml-element, offset: 176, content: '', id: KR1j0006_CHANT_009-bkkxmlele17}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR1j0006_CHANT_009-5a.1}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR1j0006_CHANT_009-5a.2}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR1j0006_CHANT_009-5a.3}
+  - {type: punctuation, offset: 177, content: ，, id: KR1j0006_CHANT_009-bkkpn28}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR1j0006_CHANT_009-5a.4}
+  - {type: variant, offset: 178, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 185, content: ，, id: KR1j0006_CHANT_009-bkkpn29}
+  - {type: 'tls:seg', offset: 185, content: '', id: KR1j0006_CHANT_009-5a.5}
+  - {type: variant, offset: 185, length: 0, content: '', SBCK: 音伐}
+  - {type: variant, offset: 185, length: 0, content: '', krp: 音伐}
+  - {type: punctuation, offset: 189, content: 。, id: KR1j0006_CHANT_009-bkkpn30}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR1j0006_CHANT_009-5a.6}
+  - {type: variant, offset: 189, length: 1, content: 關, SBCK: 干者扞也􅀜}
+  - {type: variant, offset: 189, length: 0, content: '', krp: 干者扞也}
+  - {type: punctuation, offset: 194, content: 。, id: KR1j0006_CHANT_009-bkkpn31}
+  - {type: xml-element, offset: 194, content: '', id: KR1j0006_CHANT_009-bkkxmlele18}
+  - {type: xml-element, offset: 194, content: '', id: KR1j0006_CHANT_009-bkkxmlele19}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR1j0006_CHANT_009-5a.7}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR1j0006_CHANT_009-5a.8}
+  - {type: punctuation, offset: 197, content: ，, id: KR1j0006_CHANT_009-bkkpn32}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR1j0006_CHANT_009-5a.9}
+  - {type: punctuation, offset: 206, content: 。, id: KR1j0006_CHANT_009-bkkpn33}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR1j0006_CHANT_009-5a.10}
+  - {type: variant, offset: 206, length: 0, content: '', SBCK: 未詳}
+  - {type: variant, offset: 206, length: 0, content: '', krp: 未詳}
+  - {type: punctuation, offset: 211, content: 。, id: KR1j0006_CHANT_009-bkkpn34}
+  - {type: xml-element, offset: 211, content: '', id: KR1j0006_CHANT_009-bkkxmlele20}
+  - {type: xml-element, offset: 211, content: '', id: KR1j0006_CHANT_009-bkkxmlele21}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR1j0006_CHANT_009-6a.1}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR1j0006_CHANT_009-6a.2}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR1j0006_CHANT_009-6a.3}
+  - {type: variant, offset: 211, length: 0, content: '', SBCK: 鹿車也音忌}
+  - {type: variant, offset: 211, length: 0, content: '', krp: 鹿車也音忌}
+  - {type: punctuation, offset: 213, content: ，, id: KR1j0006_CHANT_009-bkkpn35}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR1j0006_CHANT_009-6a.4}
+  - {type: variant, offset: 213, length: 0, content: '', SBCK: 車軸頭也干厲反}
+  - {type: variant, offset: 213, length: 0, content: '', krp: 車軸頭也干厲反}
+  - {type: variant, offset: 216, length: 1, content: 𨏠, SBCK: 又名}
+  - {type: variant, offset: 216, length: 1, content: 𨏠, krp: 又名}
+  - {type: punctuation, offset: 217, content: 。, id: KR1j0006_CHANT_009-bkkpn36}
+  - {type: xml-element, offset: 217, content: '', id: KR1j0006_CHANT_009-bkkxmlele22}
+  - {type: xml-element, offset: 217, content: '', id: KR1j0006_CHANT_009-bkkxmlele23}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR1j0006_CHANT_009-6a.5}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR1j0006_CHANT_009-6a.6}
+  - {type: punctuation, offset: 220, content: ，, id: KR1j0006_CHANT_009-bkkpn37}
+  - {type: 'tls:seg', offset: 220, content: '', id: KR1j0006_CHANT_009-6a.7}
+  - {type: variant, offset: 220, length: 0, content: '', SBCK: 即車弓也音縷}
+  - {type: variant, offset: 220, length: 0, content: '', krp: 即車弓也音縷}
+  - {type: punctuation, offset: 229, content: ，, id: KR1j0006_CHANT_009-bkkpn38}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR1j0006_CHANT_009-6a.8}
+  - {type: variant, offset: 229, length: 0, content: '', SBCK: 今呼車子弓爲䈐音巾}
+  - {type: variant, offset: 229, length: 0, content: '', krp: 今呼車子弓爲䈐音巾}
+  - {type: variant, offset: 232, length: 1, content: 𥳎, SBCK: 􅦶}
+  - {type: variant, offset: 232, length: 1, content: 𥳎, krp: 􅦶}
+  - {type: punctuation, offset: 234, content: 。, id: KR1j0006_CHANT_009-bkkpn39}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR1j0006_CHANT_009-6a.9}
+  - {type: variant, offset: 234, length: 0, content: '', SBCK: 穹隆兩音}
+  - {type: variant, offset: 234, length: 0, content: '', krp: 穹隆兩音}
+  - {type: variant, offset: 239, length: 1, content: 𥭓, SBCK: 即軬帶也音􅀲瓝}
+  - {type: page-break, offset: 239, content: '', id: KR1j0006_SBCK_009-2b}
+  - {type: variant, offset: 239, length: 1, content: 𥭓, krp: 即軬帶也音瓜瓝}
+  - {type: punctuation, offset: 240, content: ，, id: KR1j0006_CHANT_009-bkkpn40}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR1j0006_CHANT_009-6a.10}
+  - {type: punctuation, offset: 244, content: 。, id: KR1j0006_CHANT_009-bkkpn41}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR1j0006_CHANT_009-6a.11}
+  - {type: variant, offset: 244, length: 0, content: '', SBCK: 音脉}
+  - {type: variant, offset: 244, length: 0, content: '', krp: 音脉}
+  - {type: variant, offset: 249, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 256, content: ，, id: KR1j0006_CHANT_009-bkkpn42}
+  - {type: 'tls:seg', offset: 256, content: '', id: KR1j0006_CHANT_009-6a.12}
+  - {type: punctuation, offset: 261, content: 。, id: KR1j0006_CHANT_009-bkkpn43}
+  - {type: 'tls:seg', offset: 261, content: '', id: KR1j0006_CHANT_009-6a.13}
+  - {type: variant, offset: 261, length: 0, content: '', SBCK: 即畚字薄晩反}
+  - {type: variant, offset: 261, length: 0, content: '', krp: 即畚字薄晩反}
+  - {type: punctuation, offset: 268, content: ，, id: KR1j0006_CHANT_009-bkkpn44}
+  - {type: 'tls:seg', offset: 268, content: '', id: KR1j0006_CHANT_009-6a.14}
+  - {type: variant, offset: 268, length: 0, content: '', SBCK: 今亦通呼篷}
+  - {type: variant, offset: 268, length: 0, content: '', krp: 今亦通呼篷}
+  - {type: punctuation, offset: 273, content: 。, id: KR1j0006_CHANT_009-bkkpn45}
+  - {type: xml-element, offset: 273, content: '', id: KR1j0006_CHANT_009-bkkxmlele24}
+  - {type: xml-element, offset: 273, content: '', id: KR1j0006_CHANT_009-bkkxmlele25}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR1j0006_CHANT_009-7a.1}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR1j0006_CHANT_009-7a.2}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR1j0006_CHANT_009-7a.3}
+  - {type: variant, offset: 273, length: 0, content: '', SBCK: 尾屈}
+  - {type: variant, offset: 273, length: 0, content: '', krp: 尾屈}
+  - {type: punctuation, offset: 274, content: ，, id: KR1j0006_CHANT_009-bkkpn46}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR1j0006_CHANT_009-7a.4}
+  - {type: variant, offset: 274, length: 0, content: '', SBCK: 車輅也}
+  - {type: variant, offset: 274, length: 0, content: '', krp: 車輅也}
+  - {type: punctuation, offset: 281, content: ，, id: KR1j0006_CHANT_009-bkkpn47}
+  - {type: 'tls:seg', offset: 281, content: '', id: KR1j0006_CHANT_009-7a.5}
+  - {type: variant, offset: 281, length: 0, content: '', SBCK: 音大}
+  - {type: variant, offset: 281, length: 0, content: '', krp: 音大}
+  - {type: punctuation, offset: 285, content: 。, id: KR1j0006_CHANT_009-bkkpn48}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR1j0006_CHANT_009-7a.6}
+  - {type: variant, offset: 285, length: 1, content: 關, SBCK: 詩曰約軝錯衡音祇􅀜}
+  - {type: variant, offset: 285, length: 0, content: '', krp: 詩曰約軝錯衡音祇}
+  - {type: variant, offset: 289, length: 1, content: 𨍈, SBCK: 􅭿音揔}
+  - {type: variant, offset: 289, length: 1, content: 𨍈, krp: 􅭿音揔}
+  - {type: punctuation, offset: 290, content: 。, id: KR1j0006_CHANT_009-bkkpn49}
+  - {type: xml-element, offset: 290, content: '', id: KR1j0006_CHANT_009-bkkxmlele26}
+  - {type: xml-element, offset: 290, content: '', id: KR1j0006_CHANT_009-bkkxmlele27}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR1j0006_CHANT_009-7a.7}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR1j0006_CHANT_009-7a.8}
+  - {type: punctuation, offset: 294, content: 。, id: KR1j0006_CHANT_009-bkkpn50}
+  - {type: xml-element, offset: 294, content: '', id: KR1j0006_CHANT_009-bkkxmlele28}
+  - {type: xml-element, offset: 294, content: '', id: KR1j0006_CHANT_009-bkkxmlele29}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR1j0006_CHANT_009-8a.1}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR1j0006_CHANT_009-8a.2}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR1j0006_CHANT_009-8a.3}
+  - {type: variant, offset: 294, length: 0, content: '', SBCK: 牛忿反}
+  - {type: variant, offset: 294, length: 0, content: '', krp: 牛忿反}
+  - {type: punctuation, offset: 295, content: ，, id: KR1j0006_CHANT_009-bkkpn51}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR1j0006_CHANT_009-8a.4}
+  - {type: variant, offset: 296, length: 1, content: 衛, SBCK: 衞}
+  - {type: variant, offset: 296, length: 1, content: 衛, krp: 衞}
+  - {type: punctuation, offset: 302, content: 。, id: KR1j0006_CHANT_009-bkkpn52}
+  - {type: xml-element, offset: 302, content: '', id: KR1j0006_CHANT_009-bkkxmlele30}
+  - {type: xml-element, offset: 302, content: '', id: KR1j0006_CHANT_009-bkkxmlele31}
+  - {type: 'tls:seg', offset: 302, content: '', id: KR1j0006_CHANT_009-8a.5}
+  - {type: 'tls:seg', offset: 302, content: '', id: KR1j0006_CHANT_009-8a.6}
+  - {type: variant, offset: 302, length: 0, content: '', SBCK: 張由反}
+  - {type: variant, offset: 302, length: 0, content: '', krp: 張由反}
+  - {type: punctuation, offset: 306, content: 。, id: KR1j0006_CHANT_009-bkkpn53}
+  - {type: xml-element, offset: 306, content: '', id: KR1j0006_CHANT_009-bkkxmlele32}
+  - {type: xml-element, offset: 306, content: '', id: KR1j0006_CHANT_009-bkkxmlele33}
+  - {type: 'tls:seg', offset: 306, content: '', id: KR1j0006_CHANT_009-8a.7}
+  - {type: 'tls:seg', offset: 306, content: '', id: KR1j0006_CHANT_009-8a.8}
+  - {type: variant, offset: 306, length: 0, content: '', SBCK: 音俳}
+  - {type: page-break, offset: 306, content: '', id: KR1j0006_SBCK_009-3a}
+  - {type: variant, offset: 306, length: 0, content: '', krp: 音俳}
+  - {type: punctuation, offset: 310, content: 。, id: KR1j0006_CHANT_009-bkkpn54}
+  - {type: xml-element, offset: 310, content: '', id: KR1j0006_CHANT_009-bkkxmlele34}
+  - {type: xml-element, offset: 310, content: '', id: KR1j0006_CHANT_009-bkkxmlele35}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR1j0006_CHANT_009-9a.1}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR1j0006_CHANT_009-9a.2}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR1j0006_CHANT_009-9a.3}
+  - {type: variant, offset: 310, length: 0, content: '', krp: 車後横木}
+  - {type: variant, offset: 311, length: 0, content: '', SBCK: 後横木車}
+  - {type: punctuation, offset: 312, content: ，, id: KR1j0006_CHANT_009-bkkpn55}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR1j0006_CHANT_009-9a.4}
+  - {type: variant, offset: 313, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 327, content: ，, id: KR1j0006_CHANT_009-bkkpn56}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR1j0006_CHANT_009-9a.5}
+  - {type: variant, offset: 327, length: 0, content: '', SBCK: 音秋}
+  - {type: variant, offset: 327, length: 0, content: '', krp: 音秋}
+  - {type: variant, offset: 331, length: 0, content: '', SBCK: 綯綯亦繩名詩曰宵尓索}
+  - {type: variant, offset: 331, length: 0, content: '', krp: 綯綯亦繩名詩曰宵尓索}
+  - {type: punctuation, offset: 332, content: ，, id: KR1j0006_CHANT_009-bkkpn57}
+  - {type: 'tls:seg', offset: 332, content: '', id: KR1j0006_CHANT_009-9a.6}
+  - {type: punctuation, offset: 337, content: 。, id: KR1j0006_CHANT_009-bkkpn58}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR1j0006_CHANT_009-9a.7}
+  - {type: variant, offset: 337, length: 0, content: '', SBCK: 今江東通呼索綸音倫}
+  - {type: variant, offset: 337, length: 0, content: '', krp: 今江東通呼索綸音倫}
+  - {type: variant, offset: 338, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 344, content: 。, id: KR1j0006_CHANT_009-bkkpn59}
+  - {type: xml-element, offset: 344, content: '', id: KR1j0006_CHANT_009-bkkxmlele36}
+  - {type: xml-element, offset: 344, content: '', id: KR1j0006_CHANT_009-bkkxmlele37}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR1j0006_CHANT_009-9a.8}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR1j0006_CHANT_009-9a.9}
+  - {type: punctuation, offset: 345, content: 、, id: KR1j0006_CHANT_009-bkkpn60}
+  - {type: variant, offset: 345, length: 0, content: '', SBCK: 音管}
+  - {type: variant, offset: 345, length: 0, content: '', krp: 音管}
+  - {type: punctuation, offset: 346, content: ，, id: KR1j0006_CHANT_009-bkkpn61}
+  - {type: 'tls:seg', offset: 346, content: '', id: KR1j0006_CHANT_009-9a.10}
+  - {type: variant, offset: 346, length: 2, content: 鍊𨬍, SBCK: 音大錬􅣾錬音東􅣾音度果反}
+  - {type: variant, offset: 346, length: 2, content: 鍊𨬍, krp: 音大錬􅣾錬音東􅣾音度果反}
+  - {type: punctuation, offset: 348, content: 。, id: KR1j0006_CHANT_009-bkkpn62}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR1j0006_CHANT_009-9a.11}
+  - {type: punctuation, offset: 354, content: ，, id: KR1j0006_CHANT_009-bkkpn63}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR1j0006_CHANT_009-9a.12}
+  - {type: punctuation, offset: 358, content: ，, id: KR1j0006_CHANT_009-bkkpn64}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR1j0006_CHANT_009-9a.13}
+  - {type: variant, offset: 363, length: 1, content: 鍊, SBCK: 錬}
+  - {type: variant, offset: 363, length: 1, content: 鍊, krp: 錬}
+  - {type: variant, offset: 364, length: 1, content: 𨬍, SBCK: 􅣾}
+  - {type: variant, offset: 364, length: 1, content: 𨬍, krp: 􅣾}
+  - {type: punctuation, offset: 365, content: 。, id: KR1j0006_CHANT_009-bkkpn65}
+  - {type: xml-element, offset: 365, content: '', id: KR1j0006_CHANT_009-bkkxmlele38}
+  - {type: xml-element, offset: 365, content: '', id: KR1j0006_CHANT_009-bkkxmlele39}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR1j0006_CHANT_009-10a.1}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR1j0006_CHANT_009-10a.2}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR1j0006_CHANT_009-10a.3}
+  - {type: punctuation, offset: 367, content: ，, id: KR1j0006_CHANT_009-bkkpn66}
+  - {type: 'tls:seg', offset: 367, content: '', id: KR1j0006_CHANT_009-10a.4}
+  - {type: punctuation, offset: 376, content: ，, id: KR1j0006_CHANT_009-bkkpn67}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR1j0006_CHANT_009-10a.5}
+  - {type: variant, offset: 376, length: 0, content: '', SBCK: 音戈}
+  - {type: variant, offset: 376, length: 0, content: '', krp: 音戈}
+  - {type: punctuation, offset: 380, content: 。, id: KR1j0006_CHANT_009-bkkpn68}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR1j0006_CHANT_009-10a.6}
+  - {type: variant, offset: 380, length: 0, content: '', SBCK: 衮衣}
+  - {type: variant, offset: 380, length: 0, content: '', krp: 衮衣}
+  - {type: variant, offset: 381, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 387, content: ，, id: KR1j0006_CHANT_009-bkkpn69}
+  - {type: 'tls:seg', offset: 387, content: '', id: KR1j0006_CHANT_009-10a.7}
+  - {type: punctuation, offset: 394, content: 。, id: KR1j0006_CHANT_009-bkkpn70}
+  - {type: xml-element, offset: 394, content: '', id: KR1j0006_CHANT_009-bkkxmlele40}
+  - {type: xml-element, offset: 394, content: '', id: KR1j0006_CHANT_009-bkkxmlele41}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR1j0006_CHANT_009-10a.8}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR1j0006_CHANT_009-10a.9}
+  - {type: page-break, offset: 394, content: '', id: KR1j0006_SBCK_009-3b}
+  - {type: punctuation, offset: 401, content: ，, id: KR1j0006_CHANT_009-bkkpn71}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR1j0006_CHANT_009-10a.10}
+  - {type: variant, offset: 401, length: 0, content: '', SBCK: 胡鏑在於喉下嬴邊也}
+  - {type: variant, offset: 401, length: 0, content: '', krp: 胡鏑在於喉下嬴邊也}
+  - {type: punctuation, offset: 403, content: ，, id: KR1j0006_CHANT_009-bkkpn72}
+  - {type: 'tls:seg', offset: 403, content: '', id: KR1j0006_CHANT_009-10a.11}
+  - {type: variant, offset: 403, length: 0, content: '', SBCK: 廉稜也}
+  - {type: variant, offset: 403, length: 0, content: '', krp: 廉稜也}
+  - {type: punctuation, offset: 407, content: ，, id: KR1j0006_CHANT_009-bkkpn73}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR1j0006_CHANT_009-10a.12}
+  - {type: punctuation, offset: 414, content: ，, id: KR1j0006_CHANT_009-bkkpn74}
+  - {type: 'tls:seg', offset: 414, content: '', id: KR1j0006_CHANT_009-10a.13}
+  - {type: punctuation, offset: 423, content: ，, id: KR1j0006_CHANT_009-bkkpn75}
+  - {type: 'tls:seg', offset: 423, content: '', id: KR1j0006_CHANT_009-10a.14}
+  - {type: variant, offset: 423, length: 0, content: '', SBCK: 普蹄反}
+  - {type: variant, offset: 423, length: 0, content: '', krp: 普蹄反}
+  - {type: substitution, offset: 426, original: 鈀, replacement: 耙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3720}}
+  - {type: punctuation, offset: 427, content: 。, id: KR1j0006_CHANT_009-bkkpn76}
+  - {type: xml-element, offset: 427, content: '', id: KR1j0006_CHANT_009-bkkxmlele42}
+  - {type: xml-element, offset: 427, content: '', id: KR1j0006_CHANT_009-bkkxmlele43}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR1j0006_CHANT_009-11a.1}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR1j0006_CHANT_009-11a.2}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR1j0006_CHANT_009-11a.3}
+  - {type: variant, offset: 427, length: 0, content: '', SBCK: 音葩}
+  - {type: variant, offset: 427, length: 0, content: '', krp: 音葩}
+  - {type: substitution, offset: 440, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0592}}
+  - {type: punctuation, offset: 441, content: ，, id: KR1j0006_CHANT_009-bkkpn77}
+  - {type: 'tls:seg', offset: 441, content: '', id: KR1j0006_CHANT_009-11a.4}
+  - {type: variant, offset: 441, length: 0, content: '', SBCK: 今箭錍鑿空兩邊者也嗑嚧兩音}
+  - {type: variant, offset: 441, length: 0, content: '', krp: 今箭錍鑿空兩邊者也嗑嚧兩音}
+  - {type: substitution, offset: 451, original: 䖟, replacement: 虻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3975}}
+  - {type: punctuation, offset: 452, content: ，, id: KR1j0006_CHANT_009-bkkpn78}
+  - {type: 'tls:seg', offset: 452, content: '', id: KR1j0006_CHANT_009-11a.5}
+  - {type: punctuation, offset: 452, content: '&', id: KR1j0006_CHANT_009-bkkpn79}
+  - {type: punctuation, offset: 452, content: '-', id: KR1j0006_CHANT_009-bkkpn80}
+  - {type: punctuation, offset: 452, content: ;, id: KR1j0006_CHANT_009-bkkpn81}
+  - {type: variant, offset: 452, length: 0, content: '', SBCK: 此謂今射箭也􅚵}
+  - {type: variant, offset: 452, length: 0, content: '', krp: 此謂今射箭也􅚵}
+  - {type: variant, offset: 457, length: 0, content: '', SBCK: 今戯射箭頭題猶羊頭也}
+  - {type: variant, offset: 457, length: 0, content: '', krp: 今戯射箭頭題猶羊頭也}
+  - {type: punctuation, offset: 465, content: 。, id: KR1j0006_CHANT_009-bkkpn82}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR1j0006_CHANT_009-11a.6}
+  - {type: variant, offset: 465, length: 0, content: '', SBCK: 盛弩箭器也外傳曰檿弧箕箙}
+  - {type: variant, offset: 465, length: 0, content: '', krp: 盛弩箭器也外傳曰檿弧箕箙}
+  - {type: punctuation, offset: 469, content: ，, id: KR1j0006_CHANT_009-bkkpn83}
+  - {type: 'tls:seg', offset: 469, content: '', id: KR1j0006_CHANT_009-11a.7}
+  - {type: variant, offset: 469, length: 0, content: '', SBCK: 鞬牛}
+  - {type: variant, offset: 469, length: 0, content: '', krp: 鞬牛}
+  - {type: variant, offset: 472, length: 1, content: 𥀲, SBCK: 皾牛犢}
+  - {type: variant, offset: 472, length: 1, content: 𥀲, krp: 皾牛犢}
+  - {type: punctuation, offset: 473, content: 。, id: KR1j0006_CHANT_009-bkkpn84}
+  - {type: xml-element, offset: 473, content: '', id: KR1j0006_CHANT_009-bkkxmlele44}
+  - {type: xml-element, offset: 473, content: '', id: KR1j0006_CHANT_009-bkkxmlele45}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR1j0006_CHANT_009-11a.8}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR1j0006_CHANT_009-11a.9}
+  - {type: punctuation, offset: 481, content: ，, id: KR1j0006_CHANT_009-bkkpn85}
+  - {type: 'tls:seg', offset: 481, content: '', id: KR1j0006_CHANT_009-11a.10}
+  - {type: variant, offset: 484, length: 1, content: 厀, SBCK: 䣛今江東呼爲鈐釘}
+  - {type: variant, offset: 484, length: 1, content: 厀, krp: 䣛今江東呼爲鈐釘}
+  - {type: substitution, offset: 484, original: 厀, replacement: 膝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1494}}
+  - {type: punctuation, offset: 485, content: 。, id: KR1j0006_CHANT_009-bkkpn86}
+  - {type: xml-element, offset: 485, content: '', id: KR1j0006_CHANT_009-bkkxmlele46}
+  - {type: xml-element, offset: 485, content: '', id: KR1j0006_CHANT_009-bkkxmlele47}
+  - {type: 'tls:seg', offset: 485, content: '', id: KR1j0006_CHANT_009-12a.1}
+  - {type: 'tls:seg', offset: 485, content: '', id: KR1j0006_CHANT_009-12a.2}
+  - {type: 'tls:seg', offset: 485, content: '', id: KR1j0006_CHANT_009-12a.3}
+  - {type: page-break, offset: 485, content: '', id: KR1j0006_SBCK_009-4a}
+  - {type: variant, offset: 493, length: 1, content: 釨, SBCK: ''}
+  - {type: variant, offset: 493, length: 1, content: 釨, krp: ''}
+  - {type: punctuation, offset: 494, content: 。, id: KR1j0006_CHANT_009-bkkpn87}
+  - {type: 'tls:seg', offset: 494, content: '', id: KR1j0006_CHANT_009-12a.4}
+  - {type: variant, offset: 498, length: 1, content: 釨, SBCK: ''}
+  - {type: variant, offset: 498, length: 1, content: 釨, krp: ''}
+  - {type: punctuation, offset: 499, content: 。, id: KR1j0006_CHANT_009-bkkpn88}
+  - {type: xml-element, offset: 499, content: '', id: KR1j0006_CHANT_009-bkkxmlele48}
+  - {type: xml-element, offset: 499, content: '', id: KR1j0006_CHANT_009-bkkxmlele49}
+  - {type: 'tls:seg', offset: 499, content: '', id: KR1j0006_CHANT_009-12a.5}
+  - {type: 'tls:seg', offset: 499, content: '', id: KR1j0006_CHANT_009-12a.6}
+  - {type: punctuation, offset: 503, content: 。, id: KR1j0006_CHANT_009-bkkpn89}
+  - {type: xml-element, offset: 503, content: '', id: KR1j0006_CHANT_009-bkkxmlele50}
+  - {type: xml-element, offset: 503, content: '', id: KR1j0006_CHANT_009-bkkxmlele51}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR1j0006_CHANT_009-12a.7}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR1j0006_CHANT_009-12a.8}
+  - {type: variant, offset: 503, length: 0, content: '', SBCK: 今江東呼大矛爲鈹音彼錟音聃}
+  - {type: variant, offset: 503, length: 0, content: '', krp: 今江東呼大矛爲鈹音彼錟音聃}
+  - {type: punctuation, offset: 507, content: 。, id: KR1j0006_CHANT_009-bkkpn90}
+  - {type: xml-element, offset: 507, content: '', id: KR1j0006_CHANT_009-bkkxmlele52}
+  - {type: xml-element, offset: 507, content: '', id: KR1j0006_CHANT_009-bkkxmlele53}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR1j0006_CHANT_009-13a.1}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR1j0006_CHANT_009-13a.2}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR1j0006_CHANT_009-13a.3}
+  - {type: variant, offset: 507, length: 0, content: '', SBCK: 即矛刃下口音凶}
+  - {type: variant, offset: 507, length: 0, content: '', krp: 即矛刃下口音凶}
+  - {type: punctuation, offset: 511, content: 。, id: KR1j0006_CHANT_009-bkkpn91}
+  - {type: xml-element, offset: 511, content: '', id: KR1j0006_CHANT_009-bkkxmlele54}
+  - {type: xml-element, offset: 511, content: '', id: KR1j0006_CHANT_009-bkkxmlele55}
+  - {type: 'tls:seg', offset: 511, content: '', id: KR1j0006_CHANT_009-13a.4}
+  - {type: 'tls:seg', offset: 511, content: '', id: KR1j0006_CHANT_009-13a.5}
+  - {type: variant, offset: 511, length: 0, content: '', SBCK: 音扞或名爲鐓音頓}
+  - {type: variant, offset: 511, length: 0, content: '', krp: 音扞或名爲鐓音頓}
+  - {type: punctuation, offset: 512, content: ，, id: KR1j0006_CHANT_009-bkkpn92}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR1j0006_CHANT_009-13a.6}
+  - {type: variant, offset: 513, length: 1, content: 關, SBCK: 􅀜}
+  - {type: variant, offset: 518, length: 1, content: 船, SBCK: 􅂳}
+  - {type: punctuation, offset: 519, content: ，, id: KR1j0006_CHANT_009-bkkpn93}
+  - {type: 'tls:seg', offset: 519, content: '', id: KR1j0006_CHANT_009-13a.7}
+  - {type: variant, offset: 520, length: 1, content: 關, SBCK: 􅀜}
+  - {type: punctuation, offset: 527, content: ，, id: KR1j0006_CHANT_009-bkkpn94}
+  - {type: 'tls:seg', offset: 527, content: '', id: KR1j0006_CHANT_009-13a.8}
+  - {type: punctuation, offset: 531, content: 。, id: KR1j0006_CHANT_009-bkkpn95}
+  - {type: 'tls:seg', offset: 531, content: '', id: KR1j0006_CHANT_009-13a.9}
+  - {type: variant, offset: 531, length: 0, content: '', SBCK: 行伍}
+  - {type: variant, offset: 531, length: 0, content: '', krp: 行伍}
+  - {type: punctuation, offset: 542, content: ，, id: KR1j0006_CHANT_009-bkkpn96}
+  - {type: 'tls:seg', offset: 542, content: '', id: KR1j0006_CHANT_009-13a.10}
+  - {type: variant, offset: 542, length: 0, content: '', SBCK: 姑可反}
+  - {type: variant, offset: 542, length: 0, content: '', krp: 姑可反}
+  - {type: punctuation, offset: 547, content: ，, id: KR1j0006_CHANT_009-bkkpn97}
+  - {type: 'tls:seg', offset: 547, content: '', id: KR1j0006_CHANT_009-13a.11}
+  - {type: variant, offset: 547, length: 0, content: '', SBCK: 今江東呼艖小底者也音乂}
+  - {type: variant, offset: 547, length: 0, content: '', krp: 今江東呼艖小底者也音乂}
+  - {type: punctuation, offset: 552, content: ，, id: KR1j0006_CHANT_009-bkkpn98}
+  - {type: 'tls:seg', offset: 552, content: '', id: KR1j0006_CHANT_009-13a.12}
+  - {type: variant, offset: 552, length: 0, content: '', SBCK: 目宿二音}
+  - {type: page-break, offset: 552, content: '', id: KR1j0006_SBCK_009-4b}
+  - {type: variant, offset: 552, length: 0, content: '', krp: 目宿二音}
+  - {type: punctuation, offset: 558, content: ，, id: KR1j0006_CHANT_009-bkkpn99}
+  - {type: 'tls:seg', offset: 558, content: '', id: KR1j0006_CHANT_009-13a.13}
+  - {type: variant, offset: 558, length: 0, content: '', SBCK: 􅔓也}
+  - {type: variant, offset: 558, length: 0, content: '', krp: 􅔓也}
+  - {type: punctuation, offset: 566, content: ，, id: KR1j0006_CHANT_009-bkkpn100}
+  - {type: 'tls:seg', offset: 566, content: '', id: KR1j0006_CHANT_009-13a.14}
+  - {type: variant, offset: 566, length: 0, content: '', SBCK: 衣帶}
+  - {type: variant, offset: 566, length: 0, content: '', krp: 衣帶}
+  - {type: punctuation, offset: 573, content: ，, id: KR1j0006_CHANT_009-bkkpn101}
+  - {type: 'tls:seg', offset: 573, content: '', id: KR1j0006_CHANT_009-13a.15}
+  - {type: variant, offset: 573, length: 0, content: '', SBCK: 今江東呼艖䒀者音歩}
+  - {type: variant, offset: 573, length: 0, content: '', krp: 今江東呼艖䒀者音歩}
+  - {type: punctuation, offset: 580, content: 。, id: KR1j0006_CHANT_009-bkkpn102}
+  - {type: 'tls:seg', offset: 580, content: '', id: KR1j0006_CHANT_009-13a.16}
+  - {type: variant, offset: 580, length: 0, content: '', SBCK: 即長舼也音卭竹}
+  - {type: variant, offset: 580, length: 0, content: '', krp: 即長舼也音卭竹}
+  - {type: variant, offset: 584, length: 1, content: 會, SBCK: 㑹}
+  - {type: variant, offset: 584, length: 1, content: 會, krp: 㑹}
+  - {type: variant, offset: 590, length: 1, content: 為, SBCK: 爲}
+  - {type: variant, offset: 590, length: 1, content: 為, krp: 爲}
+  - {type: punctuation, offset: 592, content: 。, id: KR1j0006_CHANT_009-bkkpn103}
+  - {type: 'tls:seg', offset: 592, content: '', id: KR1j0006_CHANT_009-13a.17}
+  - {type: variant, offset: 592, length: 0, content: '', SBCK: 音禮}
+  - {type: variant, offset: 592, length: 0, content: '', krp: 音禮}
+  - {type: variant, offset: 595, length: 2, content: 𣝁𣝁, SBCK: 􅗝音敷􅗝}
+  - {type: variant, offset: 595, length: 2, content: 𣝁𣝁, krp: 竺二稗音敷竺二稗}
+  - {type: punctuation, offset: 596, content: ，, id: KR1j0006_CHANT_009-bkkpn104}
+  - {type: 'tls:seg', offset: 596, content: '', id: KR1j0006_CHANT_009-13a.18}
+  - {type: punctuation, offset: 600, content: 。, id: KR1j0006_CHANT_009-bkkpn105}
+  - {type: 'tls:seg', offset: 600, content: '', id: KR1j0006_CHANT_009-13a.19}
+  - {type: variant, offset: 600, length: 0, content: '', SBCK: 音伐}
+  - {type: variant, offset: 600, length: 0, content: '', krp: 音伐}
+  - {type: punctuation, offset: 601, content: ，, id: KR1j0006_CHANT_009-bkkpn106}
+  - {type: 'tls:seg', offset: 601, content: '', id: KR1j0006_CHANT_009-13a.20}
+  - {type: punctuation, offset: 607, content: 。, id: KR1j0006_CHANT_009-bkkpn107}
+  - {type: 'tls:seg', offset: 607, content: '', id: KR1j0006_CHANT_009-13a.21}
+  - {type: variant, offset: 611, length: 1, content: 𣝁, SBCK: 􅗝}
+  - {type: variant, offset: 611, length: 1, content: 𣝁, krp: 竺二稗}
+  - {type: punctuation, offset: 616, content: 。, id: KR1j0006_CHANT_009-bkkpn108}
+  - {type: 'tls:seg', offset: 616, content: '', id: KR1j0006_CHANT_009-13a.22}
+  - {type: variant, offset: 616, length: 0, content: '', SBCK: 音符}
+  - {type: variant, offset: 616, length: 0, content: '', krp: 音符}
+  - {type: punctuation, offset: 621, content: ，, id: KR1j0006_CHANT_009-bkkpn109}
+  - {type: 'tls:seg', offset: 621, content: '', id: KR1j0006_CHANT_009-13a.23}
+  - {type: variant, offset: 621, length: 0, content: '', SBCK: 揚州人呼渡津航爲抗荆州人呼樹音横}
+  - {type: variant, offset: 621, length: 0, content: '', krp: 揚州人呼渡津航爲抗荆州人呼樹音横}
+  - {type: punctuation, offset: 627, content: 。, id: KR1j0006_CHANT_009-bkkpn110}
+  - {type: 'tls:seg', offset: 627, content: '', id: KR1j0006_CHANT_009-13a.24}
+  - {type: variant, offset: 627, length: 0, content: '', SBCK: 即今浮橋}
+  - {type: variant, offset: 627, length: 0, content: '', krp: 即今浮橋}
+  - {type: punctuation, offset: 631, content: ，, id: KR1j0006_CHANT_009-bkkpn111}
+  - {type: 'tls:seg', offset: 631, content: '', id: KR1j0006_CHANT_009-13a.25}
+  - {type: variant, offset: 631, length: 0, content: '', SBCK: 如寮反}
+  - {type: variant, offset: 631, length: 0, content: '', krp: 如寮反}
+  - {type: punctuation, offset: 635, content: 。, id: KR1j0006_CHANT_009-bkkpn112}
+  - {type: 'tls:seg', offset: 635, content: '', id: KR1j0006_CHANT_009-13a.26}
+  - {type: variant, offset: 635, length: 0, content: '', SBCK: 今云櫂歌依此名也}
+  - {type: variant, offset: 635, length: 0, content: '', krp: 今云櫂歌依此名也}
+  - {type: variant, offset: 641, length: 1, content: 𥷃, SBCK: 摇􅳻小橛也江東又名爲胡人音奬}
+  - {type: variant, offset: 641, length: 1, content: 𥷃, krp: 摇􅳻小橛也江東又名爲胡人音奬}
+  - {type: punctuation, offset: 642, content: 。, id: KR1j0006_CHANT_009-bkkpn113}
+  - {type: 'tls:seg', offset: 642, content: '', id: KR1j0006_CHANT_009-13a.27}
+  - {type: variant, offset: 645, length: 1, content: 樛, SBCK: 櫂}
+  - {type: variant, offset: 645, length: 1, content: 樛, krp: 櫂}
+  - {type: punctuation, offset: 649, content: 。, id: KR1j0006_CHANT_009-bkkpn114}
+  - {type: 'tls:seg', offset: 649, content: '', id: KR1j0006_CHANT_009-13a.28}
+  - {type: variant, offset: 649, length: 0, content: '', SBCK: 繫櫂頭索也}
+  - {type: page-break, offset: 649, content: '', id: KR1j0006_SBCK_009-5a}
+  - {type: variant, offset: 649, length: 0, content: '', krp: 繫櫂頭索也}
+  - {type: variant, offset: 652, length: 1, content: 船, SBCK: 􅂳}
+  - {type: punctuation, offset: 656, content: 。, id: KR1j0006_CHANT_009-bkkpn115}
+  - {type: 'tls:seg', offset: 656, content: '', id: KR1j0006_CHANT_009-13a.29}
+  - {type: variant, offset: 656, length: 0, content: '', SBCK: 音髙}
+  - {type: variant, offset: 656, length: 0, content: '', krp: 音髙}
+  - {type: punctuation, offset: 661, content: 。, id: KR1j0006_CHANT_009-bkkpn116}
+  - {type: 'tls:seg', offset: 661, content: '', id: KR1j0006_CHANT_009-13a.30}
+  - {type: variant, offset: 661, length: 0, content: '', SBCK: 係􅂳爲維}
+  - {type: variant, offset: 661, length: 0, content: '', krp: 係船爲維}
+  - {type: substitution, offset: 664, original: 閤, replacement: 閣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0791}}
+  - {type: punctuation, offset: 666, content: ，, id: KR1j0006_CHANT_009-bkkpn117}
+  - {type: 'tls:seg', offset: 666, content: '', id: KR1j0006_CHANT_009-13a.31}
+  - {type: variant, offset: 666, length: 0, content: '', SBCK: 今江東呼􅂳頭屋爲之飛閭是也}
+  - {type: variant, offset: 666, length: 0, content: '', krp: 今江東呼船頭屋爲之飛閭是也}
+  - {type: punctuation, offset: 671, content: 。, id: KR1j0006_CHANT_009-bkkpn118}
+  - {type: 'tls:seg', offset: 671, content: '', id: KR1j0006_CHANT_009-13a.32}
+  - {type: variant, offset: 671, length: 0, content: '', SBCK: 鷁鳥名也今江東貴人􅂳前作青崔是其像也音六}
+  - {type: variant, offset: 671, length: 0, content: '', krp: 鷁鳥名也今江東貴人船前作青崔是其像也音六}
+  - {type: punctuation, offset: 674, content: ，, id: KR1j0006_CHANT_009-bkkpn119}
+  - {type: 'tls:seg', offset: 674, content: '', id: KR1j0006_CHANT_009-13a.33}
+  - {type: variant, offset: 674, length: 0, content: '', SBCK: 今江東呼拖爲舳音軸}
+  - {type: variant, offset: 674, length: 0, content: '', krp: 今江東呼拖爲舳音軸}
+  - {type: punctuation, offset: 675, content: ，, id: KR1j0006_CHANT_009-bkkpn120}
+  - {type: 'tls:seg', offset: 675, content: '', id: KR1j0006_CHANT_009-13a.34}
+  - {type: punctuation, offset: 678, content: 。, id: KR1j0006_CHANT_009-bkkpn121}
+  - {type: 'tls:seg', offset: 678, content: '', id: KR1j0006_CHANT_009-13a.35}
+  - {type: variant, offset: 678, length: 1, content: 偽, SBCK: 僞}
+  - {type: variant, offset: 678, length: 1, content: 偽, krp: 僞}
+  - {type: substitution, offset: 678, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
+  - {type: punctuation, offset: 682, content: ，, id: KR1j0006_CHANT_009-bkkpn122}
+  - {type: 'tls:seg', offset: 682, content: '', id: KR1j0006_CHANT_009-13a.36}
+  - {type: variant, offset: 682, length: 0, content: '', SBCK: 吾勃反僞音訛􅂳動摇之㒵也}
+  - {type: variant, offset: 682, length: 0, content: '', krp: 吾勃反僞音訛船動摇之㒵也}
+  - {type: punctuation, offset: 683, content: ，, id: KR1j0006_CHANT_009-bkkpn123}
+  - {type: 'tls:seg', offset: 683, content: '', id: KR1j0006_CHANT_009-13a.37}
+  - {type: punctuation, offset: 686, content: 。, id: KR1j0006_CHANT_009-bkkpn124}
+  - {type: xml-element, offset: 686, content: '', id: KR1j0006_CHANT_009-bkkxmlele56}
+  - {type: variant, offset: 686, length: 0, content: '', SBCK: 輶軒使者絶代語釋別國方言第九}
+  - {type: page-break, offset: 686, content: '', id: KR1j0006_SBCK_009-5b}
+  - {type: variant, offset: 686, length: 0, content: '', krp: 輶軒使者絶代語釋別國方言第九}
+  back: []
+hash: sha256:c7d156d3a74e120410b17db71bb17bafa3123abbce6b01baa919b38ebd0d40e0
